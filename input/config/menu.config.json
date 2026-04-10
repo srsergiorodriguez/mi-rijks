@@ -1,0 +1,33 @@
+[
+    {
+        "name": "principal",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1775857891163,
+                "label": "Recorrido",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1775858022791,
+                "label": "Explorar",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 3,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]
