@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mi Rijks",
+    "description": "",
+    "home_page_url": "https://srsergiorodriguez.github.io/mi-rijks",
+    "feed_url": "https://srsergiorodriguez.github.io/mi-rijks/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sergio R. G."
+    },
+    "items": [
+    ]
+}
